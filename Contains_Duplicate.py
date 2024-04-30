@@ -2,6 +2,7 @@
 nums = [1,2,3,1]
 #Output: true
 
+# update of comments
 n = len(nums)
 for i in range(n):
     for j in range(i + 1, n):
