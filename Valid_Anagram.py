@@ -1,6 +1,7 @@
 #Valid Anagram
 
-# s = "anagram", t = "nagaram"
+s = "anagram"
+t = "nagaram"
 # Output: true
 
 s = sorted(s)
